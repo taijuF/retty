@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-                                                                               
 require "sinatra/base"
 
-# トークンなど                                                                                        
-
+# トークンなど
+CALLBACK_TOKEN = "hashikan.retty-token"
 
 
 
